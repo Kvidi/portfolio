@@ -19,4 +19,4 @@ Font Awesome · Bootstrap Icons · Devicons · Google Fonts
 Just open `index.html` in your browser – no setup needed.
 
 ## Author
-- **Gabriel Strid (Kvidi)** 
+**Gabriel Strid (Kvidi)** 
